@@ -9,15 +9,15 @@ Landing page using html-css. This project was created during the program [The Te
 
 ## What's in this project? 💁 
 
-<li/> README.md: That's this file, where you can describe your project and how you built it.
+<li/> <i>README.md:</i> That's this file, where you can describe your project and how you built it.
 
 <p/>
 
-<li/> index.html: This is the main HTML file for the landing page.
+<li/> <i>index.html:</i> This is the main HTML file for the landing page.
 
 <p/>
 
-<li/> style.css: This is the CSS file for the landing page. It adds styling rules to the landing page content.
+<li/> <i>style.css:</i> This is the CSS file for the landing page. It adds styling rules to the landing page content.
 
 <br/>
 <br/>
