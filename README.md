@@ -2,7 +2,7 @@
 
 ## Landing Page - The Tech Career GPS - 2nd Edition Challenge 🎨🚀
 
-Landing page using html-css. This project was created during the program The Tech Career GPS - 2nd Edition
+Landing page using html-css. This project was created during the program [The Tech Career GPS - 2nd Edition](https://techcareergps.webflow.io/)
 
 <br/>
 
